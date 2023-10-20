@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+nav ul.menu {
+    list-style: none;
+    background-color: #0055a4;
+    padding: 0;
+    width: 200px;
+}
+
+nav ul.menu li {
+    margin: 0;
+}
+
+nav ul.menu li a {
+    color: white;
+    font-size: 14pt;
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+}
+nav ul.menu li a:first-letter {
+    color: red;
+}
