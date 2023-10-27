@@ -1,0 +1,9 @@
+alfabeto= str(input("digite uma letra:"))
+ 
+match alfabeto:
+ case "m":
+    print("masculino")
+ case "f":
+    print ("feminino")
+ case _:
+    print ("invalido")

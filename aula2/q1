@@ -1,0 +1,5 @@
+numero1= int(input(digite primeiro numero))
+numero2= int(input(digite segundo numero))
+
+if numero1> numero2
+print(f "O{numero1} é maior que o {numero2}")
